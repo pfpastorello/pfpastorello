@@ -6,4 +6,3 @@ Meu nome é pollyana
 compartilhamento dos meus projetos desenvolvidos
 - Estou estudando na [Alura](https://github.com/pollyanafp/pfpastorello/edit/main/README.md)
 
-![descrição do GIF]( https://media.tenor.com/gslLvdFGQDoAAAAM/bolsonaro.gif) 
